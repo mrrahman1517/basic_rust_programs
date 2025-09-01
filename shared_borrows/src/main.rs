@@ -9,3 +9,7 @@ fn main() {
 fn helper(name: &String) {
     println!("{}", name)
 }
+
+/*fn helper2(name: &String) {
+    name.push('x');
+}*/
